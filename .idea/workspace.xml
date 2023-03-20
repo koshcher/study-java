@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76680703-9064-4bce-aeeb-72e2440d45de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/collections/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/src/Task1/SeaBoatsMooring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/src/Task2/DictionaryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/src/Task2/Translation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/src/Task3/Fine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/src/Task3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/src/Task3/TaxInspectionDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-calc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-calc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-calc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-calc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-calc/src/StringCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-calc/src/TaskStringCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-run/first-run.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-1/oop-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-2/oop-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-3/oop-3.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NHFxEOW0VkMQ2ww6DeWtHWq19k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76680703-9064-4bce-aeeb-72e2440d45de" name="Changes" comment="" />
+      <created>1679313348305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679313348305</updated>
+      <workItem from="1679313348307" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
