@@ -1,0 +1,6 @@
+digraph "module6_jstl:module6_jstl:war:0.0.1-SNAPSHOT" { 
+	"module6_jstl:module6_jstl:war:0.0.1-SNAPSHOT" -> "javax.servlet:jstl:jar:1.2:compile" ; 
+	"module6_jstl:module6_jstl:war:0.0.1-SNAPSHOT" -> "mysql:mysql-connector-java:jar:8.0.22:compile" ; 
+	"module6_jstl:module6_jstl:war:0.0.1-SNAPSHOT" -> "javax.servlet:javax.servlet-api:jar:3.0.1:provided" ; 
+	"mysql:mysql-connector-java:jar:8.0.22:compile" -> "com.google.protobuf:protobuf-java:jar:3.11.4:compile" ; 
+ } 

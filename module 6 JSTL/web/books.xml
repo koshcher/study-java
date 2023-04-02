@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<name>Head First Java</name>
+		<author>ZARA</author>
+		<price>611</price>
+	</book>
+	<book>
+		<name>Java 8. Руководство для начинающих</name>
+		<author>Герберт Шилдт</author>
+		<price>1080</price>
+	</book>
+	<book>
+		<name>Java 8. Полное руководство</name>
+		<author>Герберт Шилдт</author>
+		<price>2000</price>
+	</book>
+	<book>
+		<name>Java. Библиотека профессионала</name>
+		<author>Кей С. Хорстманн, Гари Корнелл</author>
+		<price>810</price>
+	</book>
+	<book>
+		<name>Java. Промышленное программирование</name>
+		<author>Блинов, Романчик</author>
+		<price>810</price>
+	</book>
+	<book>
+		<name>Effective Java</name>
+		<author>Джошуа Блох</author>
+		<price>976</price>
+	</book>
+	<book>
+		<name>Философия Java</name>
+		<author>Брюс Эккель</author>
+		<price>1355</price>
+	</book>
+</books>

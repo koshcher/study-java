@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a515034-9680-41ce-a556-f4c256c25795" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../junit-hw/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-hw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-hw/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-hw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-hw/junit-hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-hw/src/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-hw/src/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-hw/src/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-hw/src/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-hw/src/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 13 multithread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Joiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Sleeper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task00$MyThred.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task00.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task02$MyThred.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task03$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task03$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task04$MainThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task05$CounterThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task06$MyThred.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part1/Task07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Store.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task00.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task02$Resourcer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task02$Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task03$Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task03$WaitingThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task04$WaitingThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task05$WaitingThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task06$WaitingThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part2/Task07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Race$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Race.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task02$Job.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task02$PrintQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task04$Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task04$FerryBoat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task05$Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task06$Passenger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task07$Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task07$Writer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task20$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task21$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task21$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task22$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part3/Task22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part4/RowCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part4/Task01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part4/Task02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/example/part4/Task03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/puzzle/ChickenVoice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/puzzle/EggVoice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/puzzle/Happy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/puzzle/Happy$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/puzzle/Happy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/module 13 multithread/ua/step/puzzle/Xor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/multithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task1/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task2/FactorialFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task2/FileFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task2/PrimeFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task2/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task3/Copier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task4/BadWordFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task4/FileMerger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/Task4/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ng949IJLL27Q48qsOuhY5K19bY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Task01">
+    <configuration name="Task00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.step.example.part2.Task00" />
+      <module name="module 13 multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.step.example.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.step.example.part2.Task01" />
+      <module name="module 13 multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.step.example.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.step.example.part1.Task04" />
+      <module name="module 13 multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.step.example.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.step.example.part1.Task07" />
+      <module name="module 13 multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.step.example.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task01" />
+        <item itemvalue="Application.Task00" />
+        <item itemvalue="Application.Task07" />
+        <item itemvalue="Application.Task04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a515034-9680-41ce-a556-f4c256c25795" name="Changes" comment="" />
+      <created>1680074664113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680074664113</updated>
+      <workItem from="1680074665406" duration="4935000" />
+      <workItem from="1680158584860" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
