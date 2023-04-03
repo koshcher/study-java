@@ -6,8 +6,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.Objects;
+import java.util.stream.Collectors;
 
 @WebServlet("/text")
 public class TextServlet extends HttpServlet {
@@ -18,37 +21,38 @@ public class TextServlet extends HttpServlet {
     }
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
 		request.getRequestDispatcher("/text.jsp").forward(request, response);
 	}
 
-
-	/**
-	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	/*
+		Пользователь вводит в текстовое поле текст. Сервлет
+		анализирует полученные данные и отображает статистику
+		по тексту: количество гласных, список гласных, количество
+		согласных, список согласных, количество знаков препинания, список знаков препинания.
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
-		try {
-			int num1 = Integer.parseInt(request.getParameter("num1"));
-			int num2 = Integer.parseInt(request.getParameter("num2"));
-			int num3 = Integer.parseInt(request.getParameter("num3"));
-			String operation = request.getParameter("operation");
 
-			int[] nums = {num1, num2, num3};
+		String text = request.getParameter("text").toLowerCase();
 
-			if (Objects.equals(operation, "max")) {
-				int max = Arrays.stream(nums).max().getAsInt();
-				request.setAttribute("max", max);
-			} else if (Objects.equals(operation, "min")) {
-				int min = Arrays.stream(nums).min().getAsInt();
-				request.setAttribute("min", min);
-			} else if (Objects.equals(operation, "avg")) {
-				double avg = Arrays.stream(nums).sum() / 3.0;
-				request.setAttribute("avg", avg);
-			}
-		} catch (Exception ignored) { }
+		var textVowels = filter(text, vowels);
+		var textConsonants =  filter(text, consonants);
+		var textPunctuation =  filter(text, punctuation);
 
-		request.getRequestDispatcher("/nums.jsp").forward(request, response);
+		request.setAttribute("vowels", textVowels);
+		request.setAttribute("consonants", textConsonants);
+		request.setAttribute("punctuations", textPunctuation);
+		request.setAttribute("vowelsCount", textVowels.size());
+		request.setAttribute("consonantsCount", textConsonants.size());
+		request.setAttribute("punctuationsCount", textPunctuation.size());
+
+		request.getRequestDispatcher("/text.jsp").forward(request, response);
 	}
 
+	private List<String> filter(String text, List<String> symbols) {
+		return text.toLowerCase().chars().mapToObj(c -> String.valueOf((char)c)).filter(symbols::contains).collect(Collectors.toList());
+	}
+
+	private final List<String> vowels = Arrays.asList("a", "e", "i", "o", "u");
+	private final List<String> consonants = Arrays.asList("b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "w", "x", "y", "z");
+	private final List<String> punctuation = Arrays.asList(".", ",", ";", ":", "!", "?", "-", "_", "/", "\\", "(", ")", "[", "]", "{", "}");
 }

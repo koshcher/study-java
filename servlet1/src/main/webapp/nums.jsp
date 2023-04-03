@@ -8,7 +8,8 @@
 <title>Insert title here</title>
 </head>
 <body style="font-family: sans-serif;">
-	<h1>Count max!</h1>
+	<h1>Count max, avg, min!</h1>
+	<a href="text">Next task: text</a>
 	<form action="nums" method="post" style="display: flex; gap: 10px; flex-direction: column; margin: auto; justify-content: center; align-items: center;">
 
 		<div>
