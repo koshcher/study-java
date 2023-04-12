@@ -9,46 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e24c21a0-5868-4950-8cd3-ecb84d5913f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../module 3.1 Servlets/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../servlet1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../firstee/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstee/src/main/java/dev/rk/firstee/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../firstee/src/main/java/dev/rk/firstee/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstee/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../firstee/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module 3.1 Servlets/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/lib/javax.ejb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/lib/javax.jms.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/lib/javax.persistence.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/lib/javax.resource.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/lib/javax.servlet.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/lib/javax.servlet.jsp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/lib/javax.transaction.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module 3.1 Servlets/module 3.1 Servlets.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/module5-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/module5-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/target/serve1let/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/target/serve1let/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../serve1let/target/serve1let/index.jsp" beforeDir="false" />
-    </list>
+    <list default="true" id="e24c21a0-5868-4950-8cd3-ecb84d5913f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,6 +158,7 @@
       <workItem from="1680434505388" duration="663000" />
       <workItem from="1680441944808" duration="17000" />
       <workItem from="1680442280833" duration="40000" />
+      <workItem from="1680539288547" duration="24000" />
     </task>
     <servers />
   </component>
